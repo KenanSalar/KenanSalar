@@ -1,159 +1,134 @@
-# Hi there, I'm Kenan Salar 👋
+# Hi there, I'm Kenan! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Full-Stack+.NET+Developer;Test+Automation+Engineer;Clean+Code+Enthusiast;DevOps+%26+CI%2FCD+Advocate" alt="Typing SVG" />
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=CDD6F4&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+.NET+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Growing)
+
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KenanSalar&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&icon_color=f38ba8&text_color=cdd6f4&ring_color=f9e2af" alt="GitHub Stats" />
+</div>
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack .NET Developer** with expertise in building scalable web applications, implementing robust testing frameworks, and creating efficient development workflows. I focus on writing clean, maintainable code and leveraging modern development practices.
+> Passionate **Full Stack .NET Developer** with a love for clean code, modern architecture, and continuous learning. I enjoy building robust web applications and exploring new technologies in the .NET ecosystem.
 
-- 🔭 Currently working on **C# web applications** with **ASP.NET Core** and **Blazor**
-- 🌱 Exploring advanced **DevOps practices** and **cloud technologies**
-- 💡 Passionate about **test automation** and **quality assurance**
-- 🎯 Building **developer tools** and **testing templates** for the community
+- 🔭 Currently working on **modern web applications** with ASP.NET Core and Blazor
+- 🌱 Always learning and exploring **new technologies** and **best practices**
+- 💡 Interested in **clean architecture**, **testing**, and **DevOps practices**
+- 🎨 Creator of **[Calmppuccin VS Code Theme](https://github.com/KenanSalar/calmppuccin-vscode)** - A soothing Catppuccin-inspired theme
+- 🧪 Built **[C# Selenium NUnit Template](https://github.com/KenanSalar/csharp-selenium-nunit-template)** for automated testing
 
----
+## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack & Tools
-
-### **Languages & Frameworks**
 <div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
-  <img src="https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework"/>
+
+### 🎯 Core Technologies
+![C#](https://img.shields.io/badge/C%23-f38ba8?style=for-the-badge&logo=csharp&logoColor=1e1e2e)
+![.NET](https://img.shields.io/badge/.NET-a6e3a1?style=for-the-badge&logo=dotnet&logoColor=1e1e2e)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-89b4fa?style=for-the-badge&logo=dotnet&logoColor=1e1e2e)
+![Blazor](https://img.shields.io/badge/Blazor-fab387?style=for-the-badge&logo=blazor&logoColor=1e1e2e)
+
+### 🗄️ Data & ORM
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-cba6f7?style=for-the-badge&logo=microsoft&logoColor=1e1e2e)
+![SQL Server](https://img.shields.io/badge/SQL_Server-f9e2af?style=for-the-badge&logo=microsoftsqlserver&logoColor=1e1e2e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-94e2d5?style=for-the-badge&logo=postgresql&logoColor=1e1e2e)
+
+### 🧪 Testing & Quality
+![NUnit](https://img.shields.io/badge/NUnit-eba0ac?style=for-the-badge&logo=nunit&logoColor=1e1e2e)
+![xUnit](https://img.shields.io/badge/xUnit-f38ba8?style=for-the-badge&logo=xunit&logoColor=1e1e2e)
+![Selenium](https://img.shields.io/badge/Selenium-a6e3a1?style=for-the-badge&logo=selenium&logoColor=1e1e2e)
+![Shouldly](https://img.shields.io/badge/Shouldly-89b4fa?style=for-the-badge&logoColor=1e1e2e)
+
+### 🔧 Tools & DevOps
+![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-fab387?style=for-the-badge&logo=visualstudio&logoColor=1e1e2e)
+![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-cba6f7?style=for-the-badge&logo=rider&logoColor=1e1e2e)
+![VS Code](https://img.shields.io/badge/VS_Code-f9e2af?style=for-the-badge&logo=visualstudiocode&logoColor=1e1e2e)
+![Docker](https://img.shields.io/badge/Docker-94e2d5?style=for-the-badge&logo=docker&logoColor=1e1e2e)
+
+### 📦 Libraries & Frameworks
+![MudBlazor](https://img.shields.io/badge/MudBlazor-eba0ac?style=for-the-badge&logoColor=1e1e2e)
+![Serilog](https://img.shields.io/badge/Serilog-f38ba8?style=for-the-badge&logoColor=1e1e2e)
+![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-a6e3a1?style=for-the-badge&logoColor=1e1e2e)
+![Microsoft Configuration](https://img.shields.io/badge/MS_Configuration-89b4fa?style=for-the-badge&logoColor=1e1e2e)
+
+### 🔄 Version Control & CI/CD
+![Git](https://img.shields.io/badge/Git-fab387?style=for-the-badge&logo=git&logoColor=1e1e2e)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-cba6f7?style=for-the-badge&logo=githubactions&logoColor=1e1e2e)
+
 </div>
 
-### **Testing & Quality Assurance**
-<div align="center">
-  <img src="https://img.shields.io/badge/NUnit-22B2B2?style=for-the-badge&logo=nunit&logoColor=white" alt="NUnit"/>
-  <img src="https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="xUnit"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Shouldly-FF6B6B?style=for-the-badge&logo=.net&logoColor=white" alt="Shouldly"/>
-</div>
-
-### **Databases**
-<div align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</div>
-
-### **Development Tools**
-<div align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio 2022"/>
-  <img src="https://img.shields.io/badge/JetBrains%20Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="Rider"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-</div>
-
-### **DevOps & Infrastructure**
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Serilog-1F4E79?style=for-the-badge&logo=.net&logoColor=white" alt="Serilog"/>
-</div>
-
-### **UI Frameworks & Libraries**
-<div align="center">
-  <img src="https://img.shields.io/badge/MudBlazor-594AE2?style=for-the-badge&logo=blazor&logoColor=white" alt="MudBlazor"/>
-  <img src="https://img.shields.io/badge/Dependency%20Injection-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="DI"/>
-</div>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KenanSalar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanSalar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanSalar&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenanSalar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenanSalar&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&stroke=cdd6f4&ring=f9e2af&fire=f38ba8&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=a6e3a1&sideLabels=a6e3a1&dates=6c7086" alt="GitHub Streak" />
 </div>
 
----
-
-## 🌟 Featured Projects
-
-### 🔧 [C# Selenium NUnit Template](https://github.com/KenanSalar/csharp-selenium-nunit-template)
-A comprehensive template for **automated web testing** using **Selenium WebDriver**, **NUnit**, and **C#**. Features modern testing patterns, page object model implementation, and CI/CD integration.
-
-**Tech Stack:** `C#` `Selenium` `NUnit` `Page Object Model`
-
-### 🎨 [Catppuccin VS Code Theme](https://github.com/KenanSalar/calmppuccin-vscode)
-A soothing **VS Code theme** based on the popular Catppuccin color palette, designed for comfortable coding sessions with excellent syntax highlighting.
-
-**Tech Stack:** `TypeScript` `VS Code Extensions` `JSON`
-
----
-
-## 🏗️ Architecture & Patterns
-
-- **Clean Architecture** - Implementing domain-driven design principles
-- **CQRS & MediatR** - Command Query Responsibility Segregation
-- **Repository Pattern** - Data access abstraction
-- **Dependency Injection** - Loose coupling and testability
-- **Test-Driven Development** - Red-Green-Refactor methodology
-- **Page Object Model** - Selenium test automation pattern
-
----
-
-## 📈 Development Metrics
+## 🎨 Featured Projects
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KenanSalar&theme=tokyonight" alt="Profile Summary"/>
+
+[![Calmppuccin VS Code](https://github-readme-stats.vercel.app/api/pin/?username=KenanSalar&repo=calmppuccin-vscode&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&icon_color=f38ba8)](https://github.com/KenanSalar/calmppuccin-vscode)
+
+[![C# Selenium NUnit Template](https://github-readme-stats.vercel.app/api/pin/?username=KenanSalar&repo=csharp-selenium-nunit-template&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&icon_color=f38ba8)](https://github.com/KenanSalar/csharp-selenium-nunit-template)
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenanSalar&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kenan-salar-9aab5731a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/KenanSalar">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
----
-
-## 💡 Current Focus
+## 🌟 What I'm Passionate About
 
 ```csharp
-public class CurrentFocus
+public class Developer
 {
-    public List<string> LearningGoals { get; set; } = new()
+    public string Name => "Kenan Salar";
+    public string[] Interests => new[]
     {
-        "Advanced Blazor Server & WebAssembly patterns",
-        "Microservices architecture with .NET",
-        "Cloud-native application development",
-        "Advanced CI/CD pipelines with GitHub Actions",
-        "Performance optimization techniques"
+        "Clean Architecture",
+        "Test-Driven Development",
+        "Modern Web Development",
+        "DevOps & Automation",
+        "Open Source Contribution"
     };
-
-    public string Motto => "Write code that tells a story, test it like your life depends on it.";
+    
+    public void CodeDaily()
+    {
+        while (true)
+        {
+            Learn();
+            Code();
+            Test();
+            Deploy();
+            Improve();
+        }
+    }
 }
 ```
 
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenanSalar&bg_color=1e1e2e&color=cdd6f4&line=f38ba8&point=f9e2af&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenan-salar-9aab5731a/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KenanSalar)
+
+</div>
+
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KenanSalar&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=KenanSalar&color=f38ba8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <sub>💙 Built with love using .NET technologies</sub>
+  <sub>💖 Built with love using Catppuccin Mocha color scheme</sub>
 </div>
