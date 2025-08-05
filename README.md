@@ -71,6 +71,8 @@
 
 ## 🎨 Featured Projects
 
+> A showcase of my open-source contributions and development templates that demonstrate my passion for creating useful tools and beautiful experiences for the developer community.
+
 <div align="center">
 
 [![Calmppuccin VS Code](https://github-readme-stats.vercel.app/api/pin/?username=KenanSalar&repo=calmppuccin-vscode&theme=catppuccin_mocha&hide_border=false&border_color=ffffff&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&icon_color=f38ba8&border_radius=15)](https://github.com/KenanSalar/calmppuccin-vscode)
