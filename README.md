@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KenanSalar&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&icon_color=f38ba8&text_color=cdd6f4&ring_color=f9e2af" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KenanSalar&show_icons=true&theme=catppuccin_mocha&hide_border=false&border_color=ffffff&bg_color=1e1e2e&title_color=cdd6f4&icon_color=f38ba8&text_color=cdd6f4&ring_color=f9e2af&border_radius=15" alt="GitHub Stats" style="border: 2px solid #ffffff; border-radius: 15px;" />
 </div>
 
 ## 🚀 About Me
@@ -62,20 +62,20 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanSalar&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanSalar&layout=compact&theme=catppuccin_mocha&hide_border=false&border_color=ffffff&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&border_radius=15" alt="Top Languages" style="border: 2px solid #ffffff; border-radius: 15px;" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenanSalar&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&stroke=cdd6f4&ring=f9e2af&fire=f38ba8&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=a6e3a1&sideLabels=a6e3a1&dates=6c7086" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenanSalar&theme=catppuccin-mocha&hide_border=false&border=ffffff&background=1e1e2e&stroke=cdd6f4&ring=f9e2af&fire=f38ba8&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=a6e3a1&sideLabels=a6e3a1&dates=6c7086&border_radius=15" alt="GitHub Streak" style="border: 2px solid #ffffff; border-radius: 15px;" />
 </div>
 
 ## 🎨 Featured Projects
 
 <div align="center">
 
-[![Calmppuccin VS Code](https://github-readme-stats.vercel.app/api/pin/?username=KenanSalar&repo=calmppuccin-vscode&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&icon_color=f38ba8)](https://github.com/KenanSalar/calmppuccin-vscode)
+[![Calmppuccin VS Code](https://github-readme-stats.vercel.app/api/pin/?username=KenanSalar&repo=calmppuccin-vscode&theme=catppuccin_mocha&hide_border=false&border_color=ffffff&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&icon_color=f38ba8&border_radius=15)](https://github.com/KenanSalar/calmppuccin-vscode)
 
-[![C# Selenium NUnit Template](https://github-readme-stats.vercel.app/api/pin/?username=KenanSalar&repo=csharp-selenium-nunit-template&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&icon_color=f38ba8)](https://github.com/KenanSalar/csharp-selenium-nunit-template)
+[![C# Selenium NUnit Template](https://github-readme-stats.vercel.app/api/pin/?username=KenanSalar&repo=csharp-selenium-nunit-template&theme=catppuccin_mocha&hide_border=false&border_color=ffffff&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&icon_color=f38ba8&border_radius=15)](https://github.com/KenanSalar/csharp-selenium-nunit-template)
 
 </div>
 
@@ -111,7 +111,7 @@ public class Developer
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenanSalar&bg_color=1e1e2e&color=cdd6f4&line=f38ba8&point=f9e2af&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenanSalar&bg_color=1e1e2e&color=cdd6f4&line=f38ba8&point=f9e2af&area=true&hide_border=false&border_color=ffffff&radius=15" alt="Contribution Graph" style="border: 2px solid #ffffff; border-radius: 15px;" />
 </div>
 
 ## 🤝 Connect With Me
