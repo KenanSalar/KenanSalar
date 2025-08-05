@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=CDD6F4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=.NET+Developer;Building+Modern+Applications;Always+Learning+%26+Growing)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=CDD6F4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full+Stack+.NET+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Growing)
 
 </div>
 
