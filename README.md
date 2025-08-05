@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=CDD6F4&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+.NET+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Growing)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=CDD6F4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full+Stack+.NET+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Growing)
 
 </div>
 
@@ -25,37 +25,37 @@
 <div align="center">
 
 ### 🎯 Core Technologies
-![C#](https://img.shields.io/badge/C%23-f38ba8?style=for-the-badge&logo=csharp&logoColor=1e1e2e)
-![.NET](https://img.shields.io/badge/.NET-a6e3a1?style=for-the-badge&logo=dotnet&logoColor=1e1e2e)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-89b4fa?style=for-the-badge&logo=dotnet&logoColor=1e1e2e)
-![Blazor](https://img.shields.io/badge/Blazor-fab387?style=for-the-badge&logo=blazor&logoColor=1e1e2e)
+[![C#](https://img.shields.io/badge/C%23-f38ba8?style=for-the-badge&logo=csharp&logoColor=1e1e2e)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-a6e3a1?style=for-the-badge&logo=dotnet&logoColor=1e1e2e)](https://dotnet.microsoft.com/)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-89b4fa?style=for-the-badge&logo=dotnet&logoColor=1e1e2e)](https://docs.microsoft.com/en-us/aspnet/core/)
+[![Blazor](https://img.shields.io/badge/Blazor-fab387?style=for-the-badge&logo=blazor&logoColor=1e1e2e)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 
 ### 🗄️ Data & ORM
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-cba6f7?style=for-the-badge&logo=microsoft&logoColor=1e1e2e)
-![SQL Server](https://img.shields.io/badge/SQL_Server-f9e2af?style=for-the-badge&logo=microsoftsqlserver&logoColor=1e1e2e)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-94e2d5?style=for-the-badge&logo=postgresql&logoColor=1e1e2e)
+[![Entity Framework](https://img.shields.io/badge/Entity_Framework-cba6f7?style=for-the-badge&logo=microsoft&logoColor=1e1e2e)](https://docs.microsoft.com/en-us/ef/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-f9e2af?style=for-the-badge&logo=microsoftsqlserver&logoColor=1e1e2e)](https://www.microsoft.com/en-us/sql-server)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-94e2d5?style=for-the-badge&logo=postgresql&logoColor=1e1e2e)](https://www.postgresql.org/)
 
 ### 🧪 Testing & Quality
-![NUnit](https://img.shields.io/badge/NUnit-eba0ac?style=for-the-badge&logo=nunit&logoColor=1e1e2e)
-![xUnit](https://img.shields.io/badge/xUnit-f38ba8?style=for-the-badge&logo=xunit&logoColor=1e1e2e)
-![Selenium](https://img.shields.io/badge/Selenium-a6e3a1?style=for-the-badge&logo=selenium&logoColor=1e1e2e)
-![Shouldly](https://img.shields.io/badge/Shouldly-89b4fa?style=for-the-badge&logoColor=1e1e2e)
+[![NUnit](https://img.shields.io/badge/NUnit-eba0ac?style=for-the-badge&logo=nunit&logoColor=1e1e2e)](https://nunit.org/)
+[![xUnit](https://img.shields.io/badge/xUnit-f38ba8?style=for-the-badge&logo=xunit&logoColor=1e1e2e)](https://xunit.net/)
+[![Selenium](https://img.shields.io/badge/Selenium-a6e3a1?style=for-the-badge&logo=selenium&logoColor=1e1e2e)](https://selenium.dev/)
+[![Shouldly](https://img.shields.io/badge/Shouldly-89b4fa?style=for-the-badge&logoColor=1e1e2e)](https://docs.shouldly.org/)
 
 ### 🔧 Tools & DevOps
-![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-fab387?style=for-the-badge&logo=visualstudio&logoColor=1e1e2e)
-![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-cba6f7?style=for-the-badge&logo=rider&logoColor=1e1e2e)
-![VS Code](https://img.shields.io/badge/VS_Code-f9e2af?style=for-the-badge&logo=visualstudiocode&logoColor=1e1e2e)
-![Docker](https://img.shields.io/badge/Docker-94e2d5?style=for-the-badge&logo=docker&logoColor=1e1e2e)
+[![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-fab387?style=for-the-badge&logo=visualstudio&logoColor=1e1e2e)](https://visualstudio.microsoft.com/vs/)
+[![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-cba6f7?style=for-the-badge&logo=rider&logoColor=1e1e2e)](https://www.jetbrains.com/rider/)
+[![VS Code](https://img.shields.io/badge/VS_Code-f9e2af?style=for-the-badge&logo=visualstudiocode&logoColor=1e1e2e)](https://code.visualstudio.com/)
+[![Docker](https://img.shields.io/badge/Docker-94e2d5?style=for-the-badge&logo=docker&logoColor=1e1e2e)](https://www.docker.com/)
 
 ### 📦 Libraries & Frameworks
-![MudBlazor](https://img.shields.io/badge/MudBlazor-eba0ac?style=for-the-badge&logoColor=1e1e2e)
-![Serilog](https://img.shields.io/badge/Serilog-f38ba8?style=for-the-badge&logoColor=1e1e2e)
-![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-a6e3a1?style=for-the-badge&logoColor=1e1e2e)
-![Microsoft Configuration](https://img.shields.io/badge/MS_Configuration-89b4fa?style=for-the-badge&logoColor=1e1e2e)
+[![MudBlazor](https://img.shields.io/badge/MudBlazor-eba0ac?style=for-the-badge&logoColor=1e1e2e)](https://mudblazor.com/)
+[![Serilog](https://img.shields.io/badge/Serilog-f38ba8?style=for-the-badge&logoColor=1e1e2e)](https://serilog.net/)
+[![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-a6e3a1?style=for-the-badge&logoColor=1e1e2e)](https://docs.microsoft.com/en-us/dotnet/core/extensions/dependency-injection)
+[![Microsoft Configuration](https://img.shields.io/badge/MS_Configuration-89b4fa?style=for-the-badge&logoColor=1e1e2e)](https://docs.microsoft.com/en-us/dotnet/core/extensions/configuration)
 
 ### 🔄 Version Control & CI/CD
-![Git](https://img.shields.io/badge/Git-fab387?style=for-the-badge&logo=git&logoColor=1e1e2e)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-cba6f7?style=for-the-badge&logo=githubactions&logoColor=1e1e2e)
+[![Git](https://img.shields.io/badge/Git-fab387?style=for-the-badge&logo=git&logoColor=1e1e2e)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-cba6f7?style=for-the-badge&logo=githubactions&logoColor=1e1e2e)](https://github.com/features/actions)
 
 </div>
 
