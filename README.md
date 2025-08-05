@@ -128,7 +128,9 @@ public class Developer
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KenanSalar&color=f38ba8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/KenanSalar?tab=repositories">
+    <img src="https://komarev.com/ghpvc/?username=KenanSalar&color=f38ba8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
 </div>
 
 <div align="center">
