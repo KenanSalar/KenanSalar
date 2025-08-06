@@ -73,9 +73,9 @@
 
 <div align="center">
 
-[![Calmppuccin VS Code](https://github-readme-stats.vercel.app/api/pin/?username=KenanSalar&repo=calmppuccin-vscode&theme=catppuccin_mocha&hide_border=false&border_color=ffffff&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&icon_color=f38ba8&border_radius=15)](https://github.com/KenanSalar/calmppuccin-vscode)
+[![Calmppuccin VS Code](https://github-readme-stats.vercel.app/api/pin/?username=KenanSalar&repo=calmppuccin-vscode&theme=catppuccin_mocha&hide_border=false&border_color=ffffff&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&icon_color=f38ba8&border_radius=15&show_description=true)](https://github.com/KenanSalar/calmppuccin-vscode)
 
-[![C# Selenium NUnit Template](https://github-readme-stats.vercel.app/api/pin/?username=KenanSalar&repo=csharp-selenium-nunit-template&theme=catppuccin_mocha&hide_border=false&border_color=ffffff&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&icon_color=f38ba8&border_radius=15)](https://github.com/KenanSalar/csharp-selenium-nunit-template)
+[![C# Selenium NUnit Template](https://github-readme-stats.vercel.app/api/pin/?username=KenanSalar&repo=csharp-selenium-nunit-template&theme=catppuccin_mocha&hide_border=false&border_color=ffffff&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&icon_color=f38ba8&border_radius=15&show_description=true)](https://github.com/KenanSalar/csharp-selenium-nunit-template)
 
 </div>
 
