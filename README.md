@@ -1,10 +1,10 @@
-# Hi there, I'm Kenan!
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Kenan%20Salar&fontSize=50&fontColor=fff&animation=fadeIn" />
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=CDD6F4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=.NET+Developer;Building+Modern+Applications;Always+Learning+%26+Growing)
-
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=1000&color=F38BA8&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=.NET+Developer;Building+Modern+Applications;Always+Learning+%26+Growing)
 </div>
+
+</br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KenanSalar&show_icons=true&theme=catppuccin_mocha&hide_border=false&border_color=ffffff&bg_color=1e1e2e&title_color=cdd6f4&icon_color=f38ba8&text_color=cdd6f4&ring_color=f9e2af&border_radius=15" alt="GitHub Stats" style="border: 2px solid #ffffff; border-radius: 15px;" />
