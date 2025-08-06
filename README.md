@@ -111,7 +111,9 @@ public class Developer
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenanSalar&bg_color=1e1e2e&color=cdd6f4&line=f38ba8&point=f9e2af&area=true&hide_border=false&border_color=ffffff&radius=15" alt="Contribution Graph" style="border: 2px solid #ffffff; border-radius: 15px;" />
+  <a href="https://github.com/KenanSalar?tab=overview">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenanSalar&bg_color=1e1e2e&color=cdd6f4&line=f38ba8&point=f9e2af&area=true&hide_border=false&border_color=ffffff&radius=15" alt="Contribution Graph" style="border: 2px solid #ffffff; border-radius: 15px;" />
+  </a>
 </div>
 
 ## 🤝 Connect With Me
