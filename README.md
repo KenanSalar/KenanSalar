@@ -1,8 +1,8 @@
-# Hi there, I'm Kenan! 👋
+# Hi there, I'm Kenan!
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=CDD6F4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full+Stack+.NET+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Growing)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=CDD6F4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=.NET+Developer;Building+Modern+Applications;Always+Learning+%26+Growing)
 
 </div>
 
@@ -12,13 +12,11 @@
 
 ## 🚀 About Me
 
-> Passionate **Full Stack .NET Developer** with a love for clean code, modern architecture, and continuous learning. I enjoy building robust web applications and exploring new technologies in the .NET ecosystem.
+> Passionate **.NET Developer** with a love for clean code, modern architecture, and continuous learning. I enjoy building robust applications and exploring new technologies in the .NET ecosystem and beyond.
 
-- 🔭 Currently working on **modern web applications** with ASP.NET Core and Blazor
+- 🔭 Currently working on a **testing template** using nunit and selenium
 - 🌱 Always learning and exploring **new technologies** and **best practices**
 - 💡 Interested in **clean architecture**, **testing**, and **DevOps practices**
-- 🎨 Creator of **[Calmppuccin VS Code Theme](https://github.com/KenanSalar/calmppuccin-vscode)** - A soothing Catppuccin-inspired theme
-- 🧪 Built **[C# Selenium NUnit Template](https://github.com/KenanSalar/csharp-selenium-nunit-template)** for automated testing
 
 ## 🛠️ Tech Stack
 
