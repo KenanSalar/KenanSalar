@@ -7,7 +7,9 @@
 </br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KenanSalar&show_icons=true&theme=catppuccin_mocha&hide_border=false&border_color=ffffff&bg_color=1e1e2e&title_color=cdd6f4&icon_color=f38ba8&text_color=cdd6f4&ring_color=f9e2af&border_radius=15" alt="GitHub Stats" style="border: 2px solid #ffffff; border-radius: 15px;" />
+  <a href="https://github.com/KenanSalar?tab=overview">
+    <img src="https://github-readme-stats.vercel.app/api?username=KenanSalar&show_icons=true&theme=catppuccin_mocha&hide_border=false&border_color=ffffff&bg_color=1e1e2e&title_color=cdd6f4&icon_color=f38ba8&text_color=cdd6f4&ring_color=f9e2af&border_radius=15" alt="GitHub Stats" style="border: 2px solid #ffffff; border-radius: 15px;" />
+  </a>
 </div>
 
 ## 🚀 About Me
@@ -30,7 +32,7 @@
 
 ### 🗄️ Data & ORM
 [![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ### 🧪 Testing & Quality
@@ -60,11 +62,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanSalar&layout=compact&theme=catppuccin_mocha&hide_border=false&border_color=ffffff&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&border_radius=15" alt="Top Languages" style="border: 2px solid #ffffff; border-radius: 15px;" />
+  <a href="https://github.com/KenanSalar?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanSalar&layout=compact&theme=catppuccin_mocha&hide_border=false&border_color=ffffff&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&border_radius=15" alt="Top Languages" style="border: 2px solid #ffffff; border-radius: 15px;" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenanSalar&theme=catppuccin-mocha&hide_border=false&border=ffffff&background=1e1e2e&stroke=cdd6f4&ring=f9e2af&fire=f38ba8&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=a6e3a1&sideLabels=a6e3a1&dates=6c7086&border_radius=15" alt="GitHub Streak" style="border: 2px solid #ffffff; border-radius: 15px;" />
+  <a href="https://github.com/KenanSalar?tab=overview">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenanSalar&theme=catppuccin-mocha&hide_border=false&border=ffffff&background=1e1e2e&stroke=cdd6f4&ring=f9e2af&fire=f38ba8&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=a6e3a1&sideLabels=a6e3a1&dates=6c7086&border_radius=15" alt="GitHub Streak" style="border: 2px solid #ffffff; border-radius: 15px;" />
+  </a>
 </div>
 
 ## 🎨 Featured Projects
